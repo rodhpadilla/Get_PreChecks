@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
 __author__ = "Rodrigo H Padilla"
-__email__ = "rodrhern@cisco.com / rod.hpadilla@gmail.com"
-__copyright__ = "Copyright (c) 2022 Cisco Systems. All rights reserved."
+__email__ = "rod.hpadilla@gmail.com"
 
 
 from netmiko import ConnectHandler
